@@ -1,0 +1,11 @@
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.exe
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.deps.json
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.runtimeconfig.json
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.runtimeconfig.dev.json
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.dll
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\bin\Debug\netcoreapp3.1\Fila.pdb
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\obj\Debug\netcoreapp3.1\Fila.csprojAssemblyReference.cache
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\obj\Debug\netcoreapp3.1\Fila.AssemblyInfoInputs.cache
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\obj\Debug\netcoreapp3.1\Fila.AssemblyInfo.cs
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\obj\Debug\netcoreapp3.1\Fila.dll
+C:\Users\Debora Wolpatt\Desktop\Laboratório de Programação II\Atividades\Atividade 02\02. Listas\Fila\Fila\obj\Debug\netcoreapp3.1\Fila.pdb
